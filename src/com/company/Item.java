@@ -9,7 +9,7 @@ public class Item {
         name = _name;
         color = _color;
         price = _price;
-        System.out.println(_name + " is created");
+        System.out.println( "Item " + _name + " is created");
     }
 
     @Override
